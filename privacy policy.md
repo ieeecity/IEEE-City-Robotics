@@ -31,11 +31,11 @@ Gender and other diversity information
 
 Under the UK General Data Protection Regulation (UK GDPR), the lawful bases we rely on for processing this information are:  
 
-a. Contractual Necessity: We process your PII and educational/professional information to fulfill our contractual obligations, such as providing our services or products.  
+Contractual Necessity: We process your PII and educational/professional information to fulfill our contractual obligations, such as providing our services or products.  
 
-b. Legitimate Interests: We may process your PII and non-special data for our legitimate interests, provided that your rights and interests do not override those interests.  
+Legitimate Interests: We may process your PII and non-special data for our legitimate interests, provided that your rights and interests do not override those interests.  
 
-c. Explicit Consent: For optional special data, such as diversity information, we will obtain your explicit consent before processing this data. You have the right to withdraw your consent at any time.  
+Explicit Consent: For optional special data, such as diversity information, we will obtain your explicit consent before processing this data. You have the right to withdraw your consent at any time.  
 
 ## 4. How We Use Your Information  
 
